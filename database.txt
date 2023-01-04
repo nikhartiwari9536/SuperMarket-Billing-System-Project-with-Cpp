@@ -1,0 +1,5 @@
+ 101 Bread 45 2 
+ 102 Milk 50 2 
+ 103 Butter 160 3 
+ 104 Ghee 700 4 
+ 105 Almonds 1000 10 
